@@ -2,8 +2,6 @@ package rbac.authz
 
 # user-role assignments
 user_roles := {
-    "alice": ["engineering", "webdev", "team"],
-    "bob": ["hr"],
     "bonnie": ["schueler"],
     "clara": ["putzfrau"]
 }
